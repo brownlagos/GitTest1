@@ -7,6 +7,7 @@
         String color;
         boolean ishardCover;
         String publisher;
+        String author;
     
     public void setcolor(String color){
         this.color = color;
