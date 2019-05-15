@@ -18,7 +18,7 @@ or not
                 int num= input.nextInt();//Capture the input in an integer
                 input.close();
 
-                    for(int i=2;i<=num/2; i++){
+                    for(int i=1;i<=num; i++){
                         temp=num%i;
                     
                     if(temp==0){
